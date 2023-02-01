@@ -1,0 +1,8 @@
+C:\Users\sam_b\source\repos21\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\sam_b\source\repos21\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\sam_b\source\repos21\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\sam_b\source\repos21\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\Users\sam_b\source\repos21\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+C:\Users\sam_b\source\repos21\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\sam_b\source\repos21\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\sam_b\source\repos21\Paint\Paint\obj\Debug\Paint.pdb
